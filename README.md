@@ -23,10 +23,6 @@ The ML Approach didn't give us desired prediction accuracy in this case. we deci
 
 This approach relies on the count of historical booking and clicking history. Since the training data is huge, this approach tries to exploit it by predicting the clusters based on frequency the particular cluster was booked for same search criteria. That is, the greater the number of times a hotel cluster say ‘H’ is booked for say Destination id ’D’, the greater probability it has of being selected in the future too. The relevance of clusters is decided by their booking and clicking frequency on the historical data.
 
-The relevance of clicks in determining the popularity of clusters is decided using K-fold cross validation. Click weight acts as a hyper-parameter and we try to tune it in order to get best predictions.
-
-Since the srch_destination_id is one of the best features in predicting hotel cluster and all the srch_destination_id in test dataset is included in training dataset, it has a good potential to predict relevant cluster.
-
 ##Output
 ![alt tag](https://github.com/qianmx/Expedia-Hotel-Recommendations/blob/master/pic/output.png)
 
