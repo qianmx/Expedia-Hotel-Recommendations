@@ -24,7 +24,7 @@ The ML Approach didn't give us desired prediction accuracy in this case. we deci
 This approach relies on the count of historical booking and clicking history. Since the training data is huge, this approach tries to exploit it by predicting the clusters based on frequency the particular cluster was booked for same search criteria. That is, the greater the number of times a hotel cluster say ‘H’ is booked for say Destination id ’D’, the greater probability it has of being selected in the future too. The relevance of clusters is decided by their booking and clicking frequency on the historical data.
 
 ##Output
-![alt tag]()
+![alt tag](https://github.com/qianmx/Expedia-Hotel-Recommendations/blob/master/pic/output_table.png)
 
 _Detailed project report can be found in this repository(Report.pdf)_
 
