@@ -26,7 +26,7 @@ The relevance of clicks in determining the popularity of clusters is decided usi
 Since the srch_destination_id is one of the best features in predicting hotel cluster and all the srch_destination_id in test dataset is included in training dataset, it has a good potential to predict relevant cluster.
 
 ##Output
-![alt tag]()
+![alt tag](https://github.com/qianmx/Expedia-Hotel-Recommendations/blob/master/pic/output.png)
 
 
 
