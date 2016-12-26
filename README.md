@@ -26,5 +26,5 @@ This approach relies on the count of historical booking and clicking history. Si
 ##Output
 ![alt tag](https://github.com/qianmx/Expedia-Hotel-Recommendations/blob/master/pic/output_table.png)
 
-_Detailed project report can be found in this repository(Report.pdf)_
+_Detailed project report can be found in this repository(Report.pdf)._
 
