@@ -16,7 +16,7 @@ And in order to get top 5 clusters for each observation, for each algorithm, in 
 * Extract the probabilities from the classifier that the row is in the unique hotel_cluster
 * Combine all the probabilities.
 * For each row, find the 5 largest probabilities, and assign those hotel_cluster values as predictions.
-* Compute accuracy using mapk.
+* Compute accuracy using mapk(accuracy rate).
 
 ##Aggregation Approach-Customized Algorithm
 The ML Approach didn't give us desired prediction accuracy in this case. We decided to use alternative means of achieving better classification accuracy, which we call Aggregation Approach. 
