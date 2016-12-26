@@ -30,5 +30,5 @@ Since the srch_destination_id is one of the best features in predicting hotel cl
 ##Output
 ![alt tag](https://github.com/qianmx/Expedia-Hotel-Recommendations/blob/master/pic/output.png)
 
-_Detailed project report can be found in this repository.
+_Detailed project report can be found in this repository(Report.pdf)_
 
