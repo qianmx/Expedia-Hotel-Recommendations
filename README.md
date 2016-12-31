@@ -7,7 +7,7 @@ This project is a Kaggle competition. In this project, Expedia is challenging Ka
 _Detailed project and data description can be found at (https://www.kaggle.com/c/expedia-hotel-recommendations)._
 
 ##Machine Learning Approach
-We compared different classificaiton algorithms: LDA, QDA, Logistic Regression, AdaBoost, Gradient Boosting, Decision Trees, Frandom Forest, Bagging. 
+We compared different classificaiton algorithms: LDA, QDA, Logistic Regression, AdaBoost, Gradient Boosting, Decision Trees, Rrandom Forest, Bagging. 
 
 And in order to get top 5 clusters for each observation, for each algorithm, in the code we: 
 
